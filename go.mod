@@ -9,7 +9,7 @@ require (
 	github.com/spf13/viper v1.15.0
 	go.mongodb.org/mongo-driver v1.12.1
 	go.opencensus.io v0.24.0
-	go.uber.org/zap v1.24.0
+	go.uber.org/zap v1.26.0
 )
 
 require (
@@ -42,7 +42,7 @@ require (
 	github.com/xdg-go/stringprep v1.0.4 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d // indirect
 	go.uber.org/atomic v1.10.0 // indirect
-	go.uber.org/multierr v1.9.0 // indirect
+	go.uber.org/multierr v1.10.0 // indirect
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
 	golang.org/x/sync v0.2.0 // indirect
 	golang.org/x/sys v0.8.0 // indirect
