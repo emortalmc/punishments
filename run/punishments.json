@@ -1,0 +1,27 @@
+{
+  "id": "main",
+  "name": "Main Punishment",
+  "description": "The main punishment",
+  "ladder": [
+    {
+      "punishment": {
+        "type": "KICK",
+        "message": "You have been kicked for <red>being bad"
+      }
+    },
+    {
+      "punishment": {
+        "type": "BAN",
+        "length": "1d",
+        "message": "You have been banned for <red>being bad"
+      }
+    },
+    {
+      "punishment": {
+        "type": "BAN",
+        "length": "1w",
+        "message": "You have been banned for <red>being bad"
+      }
+    }
+  ]
+}
