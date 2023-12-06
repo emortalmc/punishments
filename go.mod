@@ -7,7 +7,7 @@ require (
 	github.com/google/uuid v1.3.1
 	github.com/prometheus/client_golang v1.16.0
 	github.com/spf13/viper v1.16.0
-	go.mongodb.org/mongo-driver v1.12.1
+	go.mongodb.org/mongo-driver v1.13.1
 	go.opencensus.io v0.24.0
 	go.uber.org/zap v1.26.0
 )
