@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	contrib.go.opencensus.io/exporter/prometheus v0.4.2
-	github.com/google/uuid v1.3.1
+	github.com/google/uuid v1.6.0
 	github.com/prometheus/client_golang v1.16.0
 	github.com/spf13/viper v1.16.0
 	go.mongodb.org/mongo-driver v1.12.1
